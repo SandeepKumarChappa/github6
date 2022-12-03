@@ -1,0 +1,11 @@
+
+# Python program to demonstrate the use of
+# swapcase() method  
+  
+string = "SandeePkUMAR"
+  
+# prints after swapping all cases
+print(string.swapcase())   
+  
+string = "hello world" 
+print(string.swapcase()) 
